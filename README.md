@@ -12,7 +12,7 @@
 - **JWT Authentication with Cookie**: Secure your Node.js app using JWT with cookie-based authentication.
 - **Role-Based Authorization Verification**: Manage user permissions with role-based authorization using JWT.
 - **Node MongoDB Model Relations**: Understand and implement model relationships in MongoDB.
-  ### Client
+ ### Client
 - **Installing React App**: Setup and install a React frontend for your MERN stack app.
 - **How to Get Count of Documents**: Fetch document counts from MongoDB.
 - **Fetch Data using Custom Hooks**: Utilize custom hooks to fetch data in React.
@@ -30,11 +30,10 @@
 
 
 
-![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/e438f5c3-a28a-4955-93be-c67fbd350a5c)
-
 ## updated that the rooms has been reserved, so can't check.
 
-![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/7400b5ae-02cc-41d0-88e5-46a097c3073d)
+![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/0815424f-915f-4af9-8885-ba16cdd37e95)
+
 
 
 
