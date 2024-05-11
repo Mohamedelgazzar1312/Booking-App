@@ -1,4 +1,4 @@
-# MERN Hotel Reservation App
+![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/2444296a-8464-4cfb-b0c8-5e56c4e12957)# MERN Hotel Reservation App
 
  MERN (MongoDB, Express, React, Node.js) hotel reservation app! This project combines the power of Node.js and MongoDB for backend operations and React for frontend development.
 
@@ -23,15 +23,16 @@
 - **Login Authentication with Context API**: Implement login authentication using React Context API.
 - **Hotel Reservation Component**: Develop a hotel reservation component in React.
 
-![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/28618655-e01e-4376-88bb-b96f6e6ae234)
+![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/1097ed18-b8e1-432f-a412-bc68b09a888c)
 
-![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/311e21c9-bdfb-4f6f-8225-f6f696f68e9e)
+
+![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/d6b0e668-ad52-42db-935c-bff2710e2895)
 
 
 
 ![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/e438f5c3-a28a-4955-93be-c67fbd350a5c)
 
--updated that the rooms has been reserved, so can't check.
+## updated that the rooms has been reserved, so can't check.
 
 ![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/7400b5ae-02cc-41d0-88e5-46a097c3073d)
 
