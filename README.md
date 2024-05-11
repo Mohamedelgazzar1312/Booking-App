@@ -27,9 +27,12 @@
 
 ![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/311e21c9-bdfb-4f6f-8225-f6f696f68e9e)
 
-![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/12cf6d2c-260d-4564-86f3-5ac2dd40f3ba)
+
+
 ![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/e438f5c3-a28a-4955-93be-c67fbd350a5c)
+
 -updated that the rooms has been reserved, so can't check.
+
 ![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/7400b5ae-02cc-41d0-88e5-46a097c3073d)
 
 
