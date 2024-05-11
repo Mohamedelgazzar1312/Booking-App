@@ -1,4 +1,4 @@
-![image](https://github.com/Mohamedelgazzar1312/Booking-App/assets/153744543/2444296a-8464-4cfb-b0c8-5e56c4e12957)# MERN Hotel Reservation App
+# MERN Hotel Reservation App
 
  MERN (MongoDB, Express, React, Node.js) hotel reservation app! This project combines the power of Node.js and MongoDB for backend operations and React for frontend development.
 
